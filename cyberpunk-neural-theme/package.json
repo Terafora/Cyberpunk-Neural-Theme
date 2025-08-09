@@ -1,0 +1,46 @@
+{
+  "name": "cyberpunk-neural-network-theme",
+  "displayName": "Cyberpunk Neural Network",
+  "description": "A dark theme inspired by Ghost in the Shell and cyberpunk aesthetics with neural network vibes",
+  "version": "1.0.0",
+  "publisher": "terafora",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "neural",
+    "network",
+    "ghost in the shell",
+    "dark",
+    "blue",
+    "neon",
+    "futuristic",
+    "sci-fi"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Neural Network",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk-neural-network.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#0a1a2a",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/Terafora/cyberpunk-neural-network-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Terafora/cyberpunk-neural-network-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Terafora/cyberpunk-neural-network-theme/issues"
+  },
+  "license": "MIT"
+}
